@@ -1,0 +1,27 @@
+body {
+  background-color: #f3e8ff; 
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #7b2580 !important; 
+}
+
+.card {
+  border-radius: 12px;
+  border: 2px solid #7b2580; 
+}
+
+.btn-primary {
+  background-color: #7b2580; 
+  border-color: #7b2580;
+}
+
+.btn-primary:hover {
+  background-color: #592fa7;
+  border-color: #6f42c1;
+}
+
+.list-group-item {
+  border-left: 4px solid #7b2580; 
+}
